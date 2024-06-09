@@ -1,0 +1,42 @@
+# Core dependencies
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langsmith
+numpy
+pandas
+scikit-learn
+
+# LLMs
+openai
+ollama
+
+# Deep learning frameworks
+torch
+tensorflow
+
+# NLP libraries
+transformers
+spacy
+nltk
+
+# Web framework
+flask
+
+# Utility libraries
+requests
+python-dotenv
+
+# Data processing
+beautifulsoup4
+
+# For working with JSON
+ujson
+
+# misscelaneous
+PyPDF2
+typing-extensions
+
+# vector stores
+chromadb
